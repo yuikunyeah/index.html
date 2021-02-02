@@ -1,7 +1,8 @@
-.title {
-  color: #02ccba;
-}
-li{
+li {
   list-style: none;
   foat: left;
 }
+.title {
+  color: #02ccba;
+}
+
