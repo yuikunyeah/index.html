@@ -1,3 +1,7 @@
 .title {
   color: #02ccba;
 }
+li{
+  list-style: none;
+  foat: left;
+}
