@@ -1,11 +1,5 @@
-.header-rogo{
-  padding: 20px;
-}
-.li {
-  list-style: none;
-  float: left;
-}
-.title {
+
+.h1{
   width: 500px;
   height:80px
   color: #02ccba;
