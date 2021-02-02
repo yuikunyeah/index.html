@@ -6,6 +6,9 @@
   float: left;
 }
 .title {
+  width: 500px;
+  height:80px
   color: #02ccba;
+  background-color: #ff0000
 }
 
