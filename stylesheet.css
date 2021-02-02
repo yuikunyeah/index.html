@@ -1,6 +1,6 @@
-li {
+.li {
   list-style: none;
-  foat: left;
+  float: left;
 }
 .title {
   color: #02ccba;
